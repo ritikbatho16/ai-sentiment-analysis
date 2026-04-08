@@ -30,6 +30,7 @@ Demo
 3. Get instant sentiment result
 
 ---
+running screenshot = https://github.com/ritikbatho16/ai-sentiment-analysis/blob/main/ai-analyze.png
 
 Run Locally
 
